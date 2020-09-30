@@ -11,7 +11,7 @@ def get_area(x):
 
 #### YOUR CODE FOR output_parameter GOES HERE ####
 def output_parameter(x):
-    print'The parameter of the circle with radius', x , 'is' , 2*pi*x
+    print:'The parameter of the circle with radius', x , 'is' , 2*pi*x
 #### End OF MARKER  
 
 
