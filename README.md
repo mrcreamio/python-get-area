@@ -1,2 +1,2 @@
 # get_area
-code to calculate area
+here is the code to calculate area
